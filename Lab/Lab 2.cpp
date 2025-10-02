@@ -1,15 +1,14 @@
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
-	int a,b;
-	printf("Enter the value of a:");
-	scanf("%d",&a);
-	printf("Enter the value of b:");
-	scanf("%d",&b);
-	printf("Before swapping: a=%d , b=%d \n",a,b);
-	a=a+b;
-	b=a-b;
-	a=a-b;
-    printf("After swapping: a=%d , b=%d \n",a,b);
-
+	float var1,var2;
+	printf("Input the value of var1:");
+	scanf("%f",%var1);
+	printf("Input the value of var2:");
+	scanf("%f",&);
+	if(var1!=var2){
+		printf("var1 is not equal to var2\n");
+		//
+		if
 	}
+}
